@@ -235,7 +235,7 @@ const App: React.FC = () => {
 
         <div className="flex flex-col items-center">
           <h1 className="text-2xl sm:text-4xl font-display font-bold tracking-tighter text-white drop-shadow-lg">
-            CRAZY <span className="text-emerald-400">EIGHTS</span>
+            泛海
           </h1>
           <p className="text-xs text-white/60 font-medium uppercase tracking-[0.2em]">{message}</p>
         </div>
